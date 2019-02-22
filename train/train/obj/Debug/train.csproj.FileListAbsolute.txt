@@ -1,0 +1,10 @@
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\bin\Debug\train.exe.config
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\bin\Debug\train.exe
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\bin\Debug\train.pdb
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\bin\Debug\WebDriver.dll
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\bin\Debug\WebDriver.xml
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\obj\Debug\train.csprojAssemblyReference.cache
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\obj\Debug\train.csproj.CoreCompileInputs.cache
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\obj\Debug\train.csproj.CopyComplete
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\obj\Debug\train.exe
+D:\LEO SALAZAR\Documents\2019\ENTRENAMIENTO\Fussen\train\train\obj\Debug\train.pdb
